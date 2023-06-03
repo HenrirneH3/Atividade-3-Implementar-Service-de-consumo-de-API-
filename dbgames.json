@@ -1,0 +1,25 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "produto": "Diablo IV",
+      "descricao": "Diablo IV Edição padrão ps 5",
+      "foto": "jogo1.jpg",
+      "preco": 199
+    },
+    {
+      "id": 2,
+      "produto": "God of War Ragnarok",
+      "descricao": "God of War Ragnarok - PC",
+      "foto": "jogo2.jpg",
+      "preco": 257
+    },
+    {
+      "id": 3,
+      "produto": "Crash Bandicoot Remastered",
+      "descricao": "Para PC Remastered",
+      "foto": "jogo3.jpg",
+      "preco": 189
+    }
+  ]
+}
